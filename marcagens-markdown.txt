@@ -1,0 +1,25 @@
+MARCAS DA LINGUAGEM MARKDOWN--
+
+NEGRITO: **Texto** // __Texto__
+ITÁLICO: *Texto* // _Texto_
+TRACEJADO: ~~Texto~~
+TÍTULO: #Texto // ##Texto // ###Texto
+LINHA HORIZONTAL: *** // ---
+LISTA NUMERADA: 1. Texto (NUMERO SEGUIDO DE PONTO)
+LISTA DEMARCADA: - Texto // * Texto (NUMERO SEGUIDO DE PONTO)
+CHECKBOX: - [] Texto
+LINK: [Texto](https://google.com)
+TABELA: 
+
+Texto1 | Texto2 | Texto
+---|---|---
+1 | Pedro | Verde
+2 | Maria | Azul
+
+MARCAÇÃO DE CÓDIGO: `Texto`
+// 
+```
+Texto
+```
+
+EMOJI: :nomeDoEmoji
